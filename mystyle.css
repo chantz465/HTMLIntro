@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Roboto&display=swap');
+
+boby {
+	background-color:lightgrey;
+
+}
+
+h1 {
+	font-family;'Oswald', sans-serif;
+
+
+}
+
+.text-to-upper { 
+	text-transform: uppercase;
+}
+
+
+
+th {
+	text-transform: uppercase;
+}
+
+.centered {
+	display:block; 
+	margin-left:auto
+	margin-right:auto
+}
+
+#square-list { 
+	list-stle-type: circle;
+	background: #ff9999;
+  	padding: 20px;
+}
